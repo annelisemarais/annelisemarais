@@ -1,0 +1,7 @@
+body {text-align: :center;
+margin: 5;}
+
+.navbar {background-color: blue;
+overflow : hidden;}
+.navbar a {float : center ; color : black; padding: 13px 19px}
+.navbar a:hover {background-color: darkblue;}
