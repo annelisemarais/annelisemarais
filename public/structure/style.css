@@ -39,7 +39,22 @@ a {text-decoration: none;}
   width: 50%;
 }
 
+.littleimageleft {
+    width: 100px;
+    float: left;
+    margin-right:1em;
+}
+
+.littleimageright {
+    width: 100px;
+    float: right;
+    margin-left:1em;
+}
+
+
+
 .title {font-weight: bold; text-indent: 10%; font-size: 18pt}
+.liltitle {font-weight: bold; text-indent: 15%; font-size: 15pt}
 
 .navmenu {background-color: #A0C8D6;
 overflow : hidden; width: 30%; float: center; text-align: center; border: 2px solid black;
