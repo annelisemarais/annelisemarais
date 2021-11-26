@@ -53,7 +53,7 @@ a {text-decoration: none;}
 
 
 
-.title {font-weight: bold; text-indent: 10%; font-size: 18pt}
+.title {font-weight: bold; text-indent: 10%; font-size: 18pt; margin-top:  5em}
 .liltitle {font-weight: bold; text-indent: 15%; font-size: 15pt}
 
 .navmenu {background-color: #A0C8D6;
